@@ -66,6 +66,11 @@ The system retrieves relevant Telugu content and generates an English response.
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## Screenshorts
+
+<img width="1918" height="1140" alt="Screenshot 2026-06-16 124704" src="https://github.com/user-attachments/assets/3321a53f-d92a-4a79-90db-8c0fb654f4d9" />
+<img width="845" height="907" alt="Screenshot 2026-06-15 233951" src="https://github.com/user-attachments/assets/f741627e-4e05-4702-b634-fbd7f83084d3" />
+
 
 ## Future Improvements
 
